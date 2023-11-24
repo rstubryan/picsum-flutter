@@ -1,3 +1,3 @@
-# gambar
+# UTS Pemrograman Perangkat Mobile
 
-A new Flutter project.
+20210040006 - Restu Bumi Ryan Ramadhan
